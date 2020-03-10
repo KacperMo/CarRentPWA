@@ -1,7 +1,7 @@
 {
     "name": "CarsWeb",
     "short_name": "CarsWeb",
-    "start_url": "/index.html",
+    "start_url": "https://kacpermo.github.io/CarRentPWA/index.html",
     "display": "standalone",
     "description": "Nasza pierwsza strona o samochodach",
     "scope": "/",
